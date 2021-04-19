@@ -12,10 +12,10 @@
 ### Overview
 
 Please provide the following:
-  * crust-education-chain
-  * A school education publicity portal based on the Crust blockchain. Schools and training institutions will store school qualifications, public courseware videos and ppts, contracts, fees, training processes, exam results, certificates and other documents on the chain for storage, and students and parents pass the education portal Conduct visits to understand the school’s life and results, and achieve openness and transparency of information. Employers can also learn about their employees’ experience of teaching through the education portal. The management department can also implement effective supervision and avoid irregularities in learning and training.
-  * An indication of how your project relates to / integrates into Crust.
-  * An indication of why your team is interested in creating this project.
+  * A project name: crust-education-chain
+  * A brief description of your project: School education publicity portal based on the Crust blockchain. Schools and training institutions will store school qualifications, public courseware videos and ppts, contracts, fees, training processes, exam results, certificates and other documents on the chain for storage, and students and parents pass the education portal Conduct visits to understand the school’s life and results, and achieve openness and transparency of information. Employers can also learn about their employees’ experience of teaching through the education portal. The management department can also implement effective supervision and avoid irregularities in learning and training.
+  * An indication of how your project relates to / integrates into Crust:crust-education-chain seriously takes its role as eco-partner of Crust to provide decentralized content portal service with easy IPFS API and toolkit.
+  * An indication of why your team is interested in creating this project:We have always been interested in field of Storage, by the power of IPFS and Crust blockchain, we have chance to creat a education content portal.
 
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :

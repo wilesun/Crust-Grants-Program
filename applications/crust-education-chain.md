@@ -1,7 +1,7 @@
 # Crust Grant Proposal
 
 * **Project Name:** crust-education-cahin
-* **Team Name:** 山东中科好靓科技有限公司(zhong ke hao nian)
+* **Team Name:** 山东中科好靓科技有限公司(zhong ke hao liang)
 * **Payment Address:** 0x9fbf6864cf3f34d3b1bc6de59d6bca7a532700d6 
 * **Receivable Token:** USDT
 

@@ -20,9 +20,9 @@ Please provide the following:
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
-* Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
+* Mockups/designs of any UI components: provided in our repo
+* Data models / API specifications of the core functionality: provided in our repo
+* An overview of the technology stack to be used: Golang, IPFS, Crust, NFS, mysql, HTML5, vue 2.x
 * Documentation of core components, protocols, architecture, etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic
 
